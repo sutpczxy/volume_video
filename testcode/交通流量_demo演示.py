@@ -15,7 +15,6 @@ import uuid
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-
 # uuid.uuid3(uuid.NAMESPACE_DNS, 'python.org')
 
 def db_connect():
